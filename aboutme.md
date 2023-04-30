@@ -11,7 +11,7 @@ My name is Xu Ruiqi. I used the following template to learn how to deploy a stat
 </div>
 
 
-![avatar](assets/img/bj.png)
+![avatar](assets/img/bj.png#pic_center)
 
 Here is the topic of my static page：I chose to make a static web blog about my favorite group - INTO1.
 
