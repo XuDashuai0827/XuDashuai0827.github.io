@@ -6,9 +6,9 @@ subtitle: The information of my static web blog
 
 My name is Xu Ruiqi. I used the following template to learn how to deploy a static web blog. In the list of links in the navigation bar, you can see more information about the template including resources and author's home page. Check it out for yourself if you are interested.
 
-![avatar](assets/img/bj.png)
+![avatar]([assets/img/bj.png]#pic_center)
 
-I chose to make a static web blog about my favorite group - INTO1.
+Here is the topic of my static page：I chose to make a static web blog about my favorite group - INTO1.
 
 ![avatar](assets/img/bginto1.jpg)
 
