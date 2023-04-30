@@ -4,12 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Xu Ruiqi.
+![avatar](assets/img/bj.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I chose to make a static web blog about my favorite group - INTO1
+![avatar](assets/img/bginto1.jpg)
 
 ### My story
 
