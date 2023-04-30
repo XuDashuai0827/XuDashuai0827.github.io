@@ -1,13 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The information of my static web blog
 ---
 
-My name is Xu Ruiqi.
+My name is Xu Ruiqi. I used the following template to learn how to deploy a static web blog.
+
 ![avatar](assets/img/bj.png)
 
 I chose to make a static web blog about my favorite group - INTO1
+
 ![avatar](assets/img/bginto1.jpg)
 
 ### My story
