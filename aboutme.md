@@ -10,7 +10,7 @@ My name is Xu Ruiqi. I used the following template to learn how to deploy a stat
 <img src="[assets/img/bj.png]">
 </div>
 
-<div align=center>![avatar](assets/img/bj.png)
+<div align=center>![avatar](assets/img/bj.png)</div>
 
 ![avatar](assets/img/bj.png)
 
