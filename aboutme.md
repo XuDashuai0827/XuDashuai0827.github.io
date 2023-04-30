@@ -10,6 +10,8 @@ My name is Xu Ruiqi. I used the following template to learn how to deploy a stat
 <img src="[assets/img/bj.png]">
 </div>
 
+<div align=center>![avatar](assets/img/bj.png)
+
 ![avatar](assets/img/bj.png)
 
 Here is the topic of my static page：I chose to make a static web blog about my favorite group - INTO1.
