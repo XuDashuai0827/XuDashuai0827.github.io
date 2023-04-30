@@ -7,7 +7,7 @@ subtitle: The information of my static web blog
 My name is Xu Ruiqi. I used the following template to learn how to deploy a static web blog. In the list of links in the navigation bar, you can see more information about the template including resources and author's home page. Check it out for yourself if you are interested.
 
 <div align=center>
-<img src="[assets/img/bj.png]"/>
+<img src="assets/img/bj.png"/>
 </div>
 
 <div align=center>![avatar](assets/img/bj.png)</div>
