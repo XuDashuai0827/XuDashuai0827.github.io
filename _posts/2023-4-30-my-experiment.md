@@ -2,9 +2,9 @@
 layout: post
 title: My Course Experiments
 subtitle: 云计算作业的介绍
-cover-img: /assets/img/path1.jpg
+cover-img: /assets/img/1.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path2.jpg
+share-img: /assets/img/1.jpg
 tags: [homework]
 ---
 
