@@ -10,7 +10,7 @@ My name is Xu Ruiqi. I used the following template to learn how to deploy a stat
 
 ![avatar](assets/img/bj.png#pic_center)
 
-I wanted to share my thoughts on cloud computing courses, mainly focusing on several experiments. You'll see more details on my home page.
+I wanted to share my thoughts on cloud computing courses, mainly focusing on several experiments and DaSE summer camp program. You'll see more details on my home page.
 
 ### INTO1's story
 
