@@ -7,7 +7,7 @@ subtitle: The information of my static web blog
 
 My name is Xu Ruiqi. 
 
-My email is: 51275903072@stu.ecnu.edu.cn
+My email is: ruiqixu@stu.ecnu.edu.cn
 
 ### My story
 
