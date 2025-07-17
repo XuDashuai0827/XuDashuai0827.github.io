@@ -3,10 +3,15 @@ layout: page
 title: About me
 subtitle: The information of my static web blog
 ---
+### My Email
+
+My name is Xu Ruiqi. 
+
+My email is: 51275903072@stu.ecnu.edu.cn
 
 ### My story
 
-My name is Xu Ruiqi. I used the following template to learn how to deploy a static web blog. In the list of links in the navigation bar, you can see more information about the template including resources and author's home page. Check it out for yourself if you are interested.
+I used the following template to learn how to deploy a static web blog. And this will become my personal homepage, and it will be updated continuously in the future. In the list of links in the navigation bar, you can see more information about the template including resources and author's home page. Check it out for yourself if you are interested.
 
 ![avatar](assets/img/bj.png#pic_center)
 
